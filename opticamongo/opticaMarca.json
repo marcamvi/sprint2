@@ -1,0 +1,4 @@
+{"_id":{"$oid":"621e03a23e2f7997028e10fb"},"Proveedores_id":{"$oid":"621dfca33e2f7997028e10f8"},"Nombre":"ray-ban"}
+{"_id":{"$oid":"621e03a23e2f7997028e10fc"},"Proveedores_id":{"$oid":"621dfcd53e2f7997028e10f9"},"Nombre":"police"}
+{"_id":{"$oid":"621e03a23e2f7997028e10fd"},"Proveedores_id":{"$oid":"621dfcd53e2f7997028e10f9"},"Nombre":"tous"}
+{"_id":{"$oid":"621e03a23e2f7997028e10fe"},"Proveedores_id":{"$oid":"621dfcee3e2f7997028e10fa"},"Nombre":"carolina herrera"}
