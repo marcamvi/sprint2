@@ -1,0 +1,3 @@
+{"_id":{"$oid":"621dfca33e2f7997028e10f8"},"Nombre":"GAFAS PLUS S.L.","Dirección":{"Calle":"C/Falsa","Número":1.0,"Puerta":4.0,"Ciudad":"Falsita","CP":1.0,"País":"España"},"Teléfono":6.66666666E+08,"Fax":1.23456789E+08,"NIF":"B9998887776C"}
+{"_id":{"$oid":"621dfcd53e2f7997028e10f9"},"Nombre":"GLASSES ULTRA S.L.","Dirección":{"Calle":"C/False","Número":2.0,"Puerta":5.0,"Ciudad":"Falsisimo","CP":2.0,"País":"España"},"Teléfono":7.77777777E+08,"Fax":1.2345678E+08,"NIF":"B7776665554A"}
+{"_id":{"$oid":"621dfcee3e2f7997028e10fa"},"Nombre":"GAFITAS S.L.","Dirección":{"Calle":"C/Falsium","Número":3.0,"Puerta":6.0,"Ciudad":"Falsotu","CP":3.0,"País":"España"},"Teléfono":8.88888888E+08,"Fax":8.7654321E+07,"NIF":"B6665554443B"}
