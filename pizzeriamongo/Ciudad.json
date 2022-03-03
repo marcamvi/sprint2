@@ -1,0 +1,4 @@
+{"_id":{"$oid":"621f4d05f5a794291ebb321e"},"Nombre":"Barcelona","Provincia_id":{"$oid":"621f4c48f5a794291ebb321a"}}
+{"_id":{"$oid":"621f4d05f5a794291ebb321f"},"Nombre":"Manresa","Provincia_id":{"$oid":"621f4c48f5a794291ebb321a"}}
+{"_id":{"$oid":"621f4d05f5a794291ebb3220"},"Nombre":"Terrassa","Provincia_id":{"$oid":"621f4c48f5a794291ebb321a"}}
+{"_id":{"$oid":"621f4d05f5a794291ebb3221"},"Nombre":"Sabadell","Provincia_id":{"$oid":"621f4c48f5a794291ebb321a"}}
