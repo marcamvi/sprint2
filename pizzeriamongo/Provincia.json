@@ -1,0 +1,4 @@
+{"_id":{"$oid":"621f4c48f5a794291ebb321a"},"Nombre":"Barcelona"}
+{"_id":{"$oid":"621f4c48f5a794291ebb321b"},"Nombre":"Girona"}
+{"_id":{"$oid":"621f4c48f5a794291ebb321c"},"Nombre":"Leida"}
+{"_id":{"$oid":"621f4c48f5a794291ebb321d"},"Nombre":"Tarragona"}
