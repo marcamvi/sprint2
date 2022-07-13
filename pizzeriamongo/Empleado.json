@@ -1,5 +1,0 @@
-{"_id":{"$oid":"621f5333f5a794291ebb3227"},"Nombre":"Anna","Apellido1":"Avet","Apellido2":"Pomer","DNI/NIE":"35353535B","Teléfono":6.22222222E+08,"Tipo":"Cociner@","Ciudad_id":{"$oid":"621f4d05f5a794291ebb321e"}}
-{"_id":{"$oid":"621f5333f5a794291ebb3228"},"Nombre":"Jaume","Apellido1":"Pi","Apellido2":"Roure","DNI/NIE":"34343434A","Teléfono":6.11111111E+08,"Tipo":"Cociner@","Ciudad_id":{"$oid":"621f4d05f5a794291ebb321f"}}
-{"_id":{"$oid":"621f5333f5a794291ebb3229"},"Nombre":"Claudia","Apellido1":"Ametller","Apellido2":"Cirerer","DNI/NIE":"36363636C","Teléfono":6.33333333E+08,"Tipo":"Cociner@","Ciudad_id":{"$oid":"621f4d05f5a794291ebb3220"}}
-{"_id":{"$oid":"621f5333f5a794291ebb322a"},"Nombre":"Carles","Apellido1":"Desmall","Apellido2":"Nesprer","DNI/NIE":"37373737D","Teléfono":6.44444444E+08,"Tipo":"Repartidor@","Ciudad_id":{"$oid":"621f4d05f5a794291ebb321f"}}
-{"_id":{"$oid":"621f5333f5a794291ebb322b"},"Nombre":"Janna","Apellido1":"Figuera","Apellido2":"Alsina","DNI/NIE":"38383838E","Teléfono":6.55555555E+08,"Tipo":"Repartidor@","Ciudad_id":{"$oid":"621f4d05f5a794291ebb3221"}}
