@@ -1,0 +1,2 @@
+{"_id":{"$oid":"62ce705e0df790ffee26b65a"},"Nombre":"AlguienMisterioso","Apellido1":"Odio","Apellido2":"Mongo","Teléfono":6.66666666E+08,"Tipo":"Cociner@"}
+{"_id":{"$oid":"62ce705e0df790ffee26b65b"},"Nombre":"AlguienNoMisterioso","Apellido1":"OdioMas","Apellido2":"Mongo","Teléfono":6.66666666E+08,"Tipo":"Repartidor@"}

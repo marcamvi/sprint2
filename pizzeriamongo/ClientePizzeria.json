@@ -1,0 +1,3 @@
+{"_id":{"$oid":"62ce70ed0df790ffee26b65c"},"Nombre":"Laura","Apellido1":"Llibre","Apellido2":"Taula","Dirección":{"Calle":"C/ De la Pau","Número":1.0,"CP":8019.0,"Localidad_id":{"$oid":"62ce680c0df790ffee26b653"}},"Teléfono":6.66666666E+08}
+{"_id":{"$oid":"62ce70ed0df790ffee26b65d"},"Nombre":"Marta","Apellido1":"Got","Apellido2":"Forquilla","Dirección":{"Calle":"C/ De la llum","Número":10.0,"Puerta":"B","CP":8023.0,"Localidad_id":{"$oid":"62ce680c0df790ffee26b653"}},"Teléfono":6.66666667E+08}
+{"_id":{"$oid":"62ce70ed0df790ffee26b65e"},"Nombre":"David","Apellido1":"Ordinador","Apellido2":"Ratolí","Dirección":{"Calle":"C/ Major","Número":9.0,"CP":8043.0,"Localidad_id":{"$oid":"62ce680c0df790ffee26b653"}},"Teléfono":6.66666667E+08}
